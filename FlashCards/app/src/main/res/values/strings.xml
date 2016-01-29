@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Flash Cards</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="homeTitle">Welcome to Flash Cards</string>
+    <string name="createFlashCard">Create New Flash Cards</string>
+    <string name="startStudying">Start Studying</string>
+</resources>
